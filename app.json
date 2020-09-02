@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Expo Basic Template",
-    "slug": "expo-basic-template",
+    "name": "Designs",
+    "slug": "designs",
     "platforms": [
       "ios",
       "android",
@@ -22,7 +22,7 @@
       "**/*"
     ],
     "android": {
-      "package": "com.destroyeeru.basic"
+      "package": "com.destroyeeru.designs"
     },
     "ios": {
       "supportsTablet": true

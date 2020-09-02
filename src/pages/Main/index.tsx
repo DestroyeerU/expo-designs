@@ -1,12 +1,13 @@
 import React from 'react';
-import { Text } from 'react-native';
+
+import OutlineButton from '@components/OutlineButton';
 
 import { Container } from './styles';
 
 const Main: React.FC = () => {
   return (
     <Container>
-      <Text>Main</Text>
+      <OutlineButton />
     </Container>
   );
 };
